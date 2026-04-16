@@ -1,4 +1,4 @@
-# weather-lite-policy
+# Weather Lite App Policy
 
 This is a Weather lite application policy
 
